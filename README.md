@@ -45,3 +45,9 @@ O formulário abre uma conversa no WhatsApp. Ele não armazena solicitações ne
 ## Imagens
 
 A fotografia de câmeras é ilustrativa: Zulfugar Karimov / Unsplash — https://unsplash.com/photos/XIFc1W25QsI. O material de identidade visual foi fornecido como referência para este projeto. O armário é representado por um diagrama feito em CSS.
+
+## Carrossel de soluções
+
+A abertura do site contém cinco cenas: câmeras instaladas, leitura de placas (LPR), linha virtual, reconhecimento facial e portaria VoIP. O carrossel permite seleção manual, teclado e deslize no celular. A reprodução automática pode ser pausada e respeita a preferência por movimento reduzido.
+
+As quatro novas imagens são cenas demonstrativas geradas com aparência fotográfica; não representam obras ou clientes reais. Os sinais de alarme, identificação e abertura da cancela são simulações visuais em CSS, sem conexão a equipamentos. Os prompts e arquivos estão documentados em `docs/carousel-scenes.md`.
