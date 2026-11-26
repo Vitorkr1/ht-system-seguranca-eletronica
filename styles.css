@@ -29,3 +29,5 @@
 
 /* Discourage saving the displayed brand mark without blocking page interactions. */
 .brand-logo-image{-webkit-user-drag:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none;pointer-events:none}.brand{-webkit-touch-callout:none}
+
+@media(max-width:600px){.carousel-dots button{width:23px}.hero-carousel .scene-5>img{object-position:center 28%}.hero-carousel .scene-5 .photo-caption strong{font-size:25px}}

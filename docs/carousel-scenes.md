@@ -40,3 +40,9 @@ Use case: photorealistic-natural. Asset type: professional electronic security w
 Arquivo: `assets/logo-ht-system.png`. Editado pela ferramenta ImageGen integrada para remover o fundo da imagem fornecida, preservando símbolo e texto. A versão original permanece em `assets/logo-ht-system.jpeg`.
 
 Prompt: remover somente o fundo cinza/preto; preservar o símbolo ciano, HT SYSTEM e SEGURANÇA ELETRÔNICA, suas cores e acentos; gerar PNG com transparência real e sem recortar a arte.
+
+
+## Armário inteligente
+Imagem demonstrativa criada pela ferramenta integrada ImageGen, sem representar uma instalação de cliente.
+Arquivo: `assets/carousel-locker.webp`.
+Brief: fotografia editorial realista de um entregador colocando uma encomenda em um compartimento aberto de um armário inteligente cinza, com leitor QR Code, no hall de um condomínio; luz natural, materiais reais, sem logotipos, textos, desenho ou aparência 3D.
