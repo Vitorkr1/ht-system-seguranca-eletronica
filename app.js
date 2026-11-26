@@ -65,3 +65,9 @@ if('IntersectionObserver' in window){
  motion.addEventListener('change',()=>{if(motion.matches){stopped=true;updatePause();}});
  updatePause();
 })();
+
+// Scope logo protection to branding.
+document.querySelectorAll('.brand').forEach(brand=>{
+ brand.addEventListener('contextmenu',event=>event.preventDefault());
+ brand.addEventListener('dragstart',event=>event.preventDefault());
+});
